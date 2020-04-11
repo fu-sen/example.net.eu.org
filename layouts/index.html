@@ -1,0 +1,15 @@
+{{ define "content" -}}
+<article class="post bg-white">
+  <!-- post-header -->
+  <header class="post-header">
+    <h1 class="post-title">{{ .Title }}</h1>
+    {{ partial "post/i18nlist.html" . }}
+  </header>
+
+  <!-- Content -->
+  <div class="post-content">
+      {{ .Content }}
+  </div>
+</article>
+
+{{- end }}
