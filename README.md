@@ -7,7 +7,7 @@ This domain is for use in illustrative examples in documents. You may use this d
 - [Hugo](https://gohugo.io/)
     - [Theme Jane](https://github.com/xianmin/hugo-theme-jane)
 - [EU.org https://www.eu.org/](https://nic.eu.org/) Free domains
-- [▲ ZEIT](https://zeit.co/)
+- [▲ Vercel](https://vercel.com/)
 
 ## Presented by
 
