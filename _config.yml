@@ -2,5 +2,4 @@ title: Example Domain
 description: example.net.eu.org
 theme: jekyll-theme-slate
 github:
-  public: false
   is_project_page: false
