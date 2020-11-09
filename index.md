@@ -1,4 +1,4 @@
-# Example Domain
+## Example Domain
 
 ___
 
