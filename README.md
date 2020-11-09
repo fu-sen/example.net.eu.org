@@ -8,7 +8,7 @@ This domain is for use in illustrative examples in documents. You may use this d
 
 - [Strapdown.js](https://strapdownjs.com/)
 - [EU.org https://www.eu.org/](https://nic.eu.org/) Free domains
-- [▲ Vercel](https://vercel.com/)
+- [GitHub Pages](https://pages.github.com/)
 
 ## Presented by
 
