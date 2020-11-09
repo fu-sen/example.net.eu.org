@@ -1,4 +1,9 @@
-## Example Domain
+---
+layout: default
+title: Example Domain
+---
+
+# Example Domain
 
 ___
 
