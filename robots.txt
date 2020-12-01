@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://example.net.eu.org/sitemap.xml
