@@ -1,5 +1,10 @@
 title: Example Domain
 description: example.net.eu.org
 theme: jekyll-theme-slate
-github:
-  is_project_page: false
+footer: 
+  <p>
+  Powered by 
+  <a href="https://pages.github.com/">GitHub Pages</a> /
+  EU.org <a href="https://nic.eu.org/">www.eu.org</a> Free domains<br>
+  Presented by <a href="https://balloon.cm/">BALLOON a.k.a. Fu-sen.</a> 🎈😍
+  </p>
