@@ -1,4 +1,13 @@
 body
 {
     font-size: 21px;
+    background: #2121b1;
+}
+#header_wrap
+{
+    background: #2121b1;
+}
+#footer_wrap
+{
+    background: #2121b1;
 }
