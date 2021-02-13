@@ -6,7 +6,6 @@ This domain is for use in illustrative examples in documents. You may use this d
 
 ## Powered by
 
-- [GitHub Pages](https://pages.github.com/)
 - [EU.org https://www.eu.org/](https://nic.eu.org/) Free domains
 
 ## Presented by
