@@ -8,7 +8,8 @@
   {% set description = config.site_description %}
   {% if page and page.meta.description %}
     {% set description = page.meta.description %}
-  {% endif %}  {% set image ='/ogp.png' %}
+  {% endif %}
+  {% set image = config.site_url ~ 'ogp.png' %}
   {% if page and page.meta.image %}
     {% set image = config.site_url ~ page.meta.image %}
   {% endif %}
