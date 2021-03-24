@@ -1,0 +1,12 @@
+site_name: Example Domain
+site_description: This domain is for use in illustrative examples in documents. You may use this domain in literature without prior coordination or asking for permission.
+site_url: https://example.net.eu.org/
+
+theme:
+  name: 'lumen'
+  custom_dir: 'theme/'
+
+plugins:
+  - minify:
+      minify_html: true
+      minify_js: true
