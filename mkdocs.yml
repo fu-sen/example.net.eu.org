@@ -6,6 +6,9 @@ theme:
   name: 'lumen'
   custom_dir: 'theme/'
 
+extra_css:
+  - css/20210323.css
+
 plugins:
   - minify:
       minify_html: true
