@@ -6,6 +6,6 @@ ___
 
 <small>
 Documentation built with [MkDocs](https://www.mkdocs.org/).  
-Powered by EU.org [www.eu.org](https://nic.eu.org/) Free domains  
+Powered by EU.org [www.eu.org](https://nic.eu.org/) Free domains / [▲ Vercel](https://vercel.com/)  
 Presented by [🎈 BALLOON｜FU-SEN](https://github.com/fu-sen) 🎈😍
 </small>
