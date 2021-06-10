@@ -1,6 +1,7 @@
 site_name: Example Domain
 site_description: This domain is for use in illustrative examples in documents. You may use this domain in literature without prior coordination or asking for permission.
 site_url: https://example.net.eu.org/
+site_favicon: https://images-bal.pages.dev/example/favicon.ico
 
 theme:
   name: 'lumen'

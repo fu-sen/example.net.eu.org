@@ -9,12 +9,12 @@
   {% if page and page.meta.description %}
     {% set description = page.meta.description %}
   {% endif %}
-  {% set image = config.site_url ~ 'ogp.png' %}
+  {% set image = config.site_url ~ 'https://images-bal.pages.dev/example/ogp.png' %}
   {% if page and page.meta.image %}
     {% set image = config.site_url ~ page.meta.image %}
   {% endif %}
-<link rel="icon" type="image/png" href="/favicon.png">
-<link rel="apple-touch-icon" sizes="256x256" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="https://images-bal.pages.dev/example/favicon.png">
+<link rel="apple-touch-icon" sizes="256x256" href="https://images-bal.pages.dev/example/apple-touch-icon.png">
 <meta name="google-site-verification" content="RRW1YgxIveoxqxJJ-KPVwQDsH3dMjXYVRxdmWIXrZR4" />
 <meta property="og:type" content="website">
 <meta property="og:title" content="{{ title }}">
