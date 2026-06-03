@@ -1,0 +1,15 @@
+{
+  "name": "example-net-eu-org",
+  "compatibility_date": "2026-06-03",
+  "workers_dev": false,
+  "assets": {
+    "directory": "./",
+    "not_found_handling": "404-page"
+  },
+  "routes": [
+    { 
+      "pattern": "example.net.eu.org",
+      "custom_domain": true
+    }
+  ]
+}
